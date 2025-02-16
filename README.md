@@ -6,7 +6,7 @@ In this week my focus was on understanding and implementing Object-Oriented Prog
 ## **Tasks Completed**
 
 1. **Student Class Implementation**
-   - Developed a **Student** class with attributes such as **name**, **age**, and **grades**.
+   - Developed a **Student** class with attributes such as **name**, **age**, **standard**, **roll no** and **grades**.
    - Implemented methods to **calculate the average grade** and **display student details**.
 
 2. **BankAccount Class with Encapsulation and Inheritance**
